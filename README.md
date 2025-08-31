@@ -42,7 +42,7 @@ I enjoy creating clean architectures, integrating advanced features, and continu
 
 ## 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/ahmed-bannour/)  
+- [LinkedIn](https://www.linkedin.com/in/ahmed-bannour-280852186)  
 - [Email](mailto:ahmedbannour77@gmail.com)
 
 ---
