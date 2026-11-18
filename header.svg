@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Ahmed Bannour · Full-Stack Software Engineer · Founder of AI Casting">
+<style>
+  .n{font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:800;fill:#F2F3F6}
+  .r{font-family:'Segoe UI',Inter,Arial,sans-serif;font-weight:600;fill:#F2C230;opacity:0;animation:cyc 12s infinite}
+  .r2{animation-delay:4s}.r3{animation-delay:8s}
+  @keyframes cyc{0%{opacity:0;transform:translateY(10px)}5%,30%{opacity:1;transform:none}35%,100%{opacity:0;transform:translateY(-10px)}}
+  .ring{fill:none;stroke:#F2C230;stroke-width:10;stroke-linecap:round;stroke-dasharray:220;stroke-dashoffset:220;animation:d 1.6s ease-out .2s forwards}
+  @keyframes d{to{stroke-dashoffset:0}}
+  .in{opacity:0;animation:i .8s ease-out .5s forwards}@keyframes i{to{opacity:1}}
+  .g{animation:glow 4s ease-in-out infinite}@keyframes glow{50%{opacity:.35}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}}
+</style>
+<rect width="1000" height="200" rx="20" fill="#15161C"/>
+<circle class="g" cx="930" cy="20" r="150" fill="none" stroke="#F2C230" stroke-opacity=".12" stroke-width="30"/>
+<circle class="ring" cx="80" cy="100" r="34" transform="rotate(-90 80 100)"/>
+<text class="n in" x="140" y="96" font-size="44">Ahmed Bannour</text>
+<g font-size="24">
+  <text class="r" x="142" y="140">Full-Stack Software Engineer</text>
+  <text class="r r2" x="142" y="140">Founder of AI Casting · AI for casting agencies</text>
+  <text class="r r3" x="142" y="140">Flutter · Spring Boot · Angular · Computer Vision</text>
+</g>
+<text x="142" y="176" font-family="'Segoe UI',Inter,Arial,sans-serif" font-size="15" fill="#7D8292" class="in">Tunis, Tunisia</text>
+</svg>
