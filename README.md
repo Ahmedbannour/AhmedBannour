@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Ahmed Bannour · Software Engineer" width="100%">
+<img src="banner-software-engineer.svg" alt="Ahmed Bannour · Software Engineer" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-bannour-280852186)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedbannour77@gmail.com)
