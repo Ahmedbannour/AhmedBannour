@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="header.svg" alt="Ahmed Bannour · Full-Stack Software Engineer · Founder of AI Casting" width="100%">
+<img src="header.svg" alt="Ahmed Bannour · Software Engineer" width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-bannour-280852186)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedbannour77@gmail.com)
-[![AI Casting](https://img.shields.io/badge/Building-AI%20Casting-F2C230?style=for-the-badge&labelColor=15161C)](https://github.com/Ahmedbannour/ai-casting-platform)
+[![AI Casting](https://img.shields.io/badge/Project-AI%20Casting-F2C230?style=for-the-badge&labelColor=15161C)](https://github.com/Ahmedbannour/ai-casting-platform)
 
 </div>
 
 ## 👋 About me
 
-I’m a **Full-Stack Software Engineer** from Tunis who enjoys clean architectures, fast interfaces and putting AI to practical use.
+I’m a **Software Engineer** from Tunis who enjoys clean architectures, fast interfaces and putting AI to practical use.
 
-- 🚀 Currently building **[AI Casting](https://github.com/Ahmedbannour/ai-casting-platform)**: a casting platform where agencies describe a role in one sentence and a **local AI** finds, ranks and explains the best actor profiles
+- 🚀 Currently working on **[AI Casting](https://github.com/Ahmedbannour/ai-casting-platform)**: a casting platform where agencies describe a role in one sentence and a **local AI** finds, ranks and explains the best actor profiles
 - 📱 Also working with **Flutter, OpenCV and native integrations**
 - 💬 Ask me about **Spring Boot, Angular, Flutter, Python, C++, Linux desktop apps or computer vision**
 - 📫 **ahmedbannour77@gmail.com**
